@@ -1,188 +1,128 @@
 
-<h1 align="center">Hi 👋, I'm G KARTHIK GOUD</h1>
+<h1 align="center">G KARTHIK GOUD</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthikgoud24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=FRESHER+Developer;Passionate+Programmer;Java+%7C+DSA+%7C+Web+Development;Always+Learning+New+Technologies;Building+Projects+and+Growing+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fresher+Developer;Java+%7C+DSA+%7C+Web+Development;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+  <img src="https://komarev.com/ghpvc/?username=karthikgoud24&label=Profile+Views&color=blue&style=flat" />
 </p>
 
 ---
 
-# 🚀 About Me
+## About Me
 
-💻 Passionate fresher developer focused on building strong programming, problem-solving, and development skills.
-
-🌱 Currently learning and improving in:
-- Java Development
-- Data Structures & Algorithms
-- Web Development
-- Backend Systems
-
-🔥 I enjoy creating projects, learning new technologies, and continuously improving my coding skills.
-
-📚 I also love exploring tech communities, developer content, and sharing knowledge through social platforms.
+- Passionate fresher developer focused on software engineering and problem solving.
+- Interested in Java development, DSA, backend systems, and web technologies.
+- Consistently learning through projects and coding practice.
+- Goal: Build strong real-world engineering skills.
 
 ---
 
-# ✨ Fun Facts About Me
+## Tech Stack
 
-- ⚡ I love solving coding problems and logic challenges
-- 🚀 Passionate about building real-world applications
-- 📖 Constantly learning new technologies and frameworks
-- ☕ Coffee + Coding = Productivity
+<table align="center">
+
+<tr>
+<td align="center" width="180"><b>Languages</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Database</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-# 🛠️ Tech Stack
-
-## 💻 Programming Languages
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-</p>
-
----
-
-## 🌐 Frontend
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-</p>
-
----
-
-## ⚙️ Backend & Database
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
-
-</p>
-
----
-
-# 🌐 Social Media Links
+## GitHub Stats
 
 <p align="center">
 
-<a href="">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=karthikgoud24&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="">
-  <img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgoud24&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Streak
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikgoud24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgoud24&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=karthikgoud24&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak Stats
+## Contribution Graph
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=karthikgoud24&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikgoud24&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
+## Connect With Me
 
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikgoud24&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
+<p>
 <a href="https://github.com/karthikgoud24">
-  <img src="https://img.shields.io/badge/GitHub-karthikgoud24-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-karthikgoud24-181717?style=flat&logo=github&logoColor=white"/>
 </a>
-
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 </p>
 
 ---
 
-<h3 align="center">
-✨ "Code. Learn. Build. Repeat." ✨
-</h3>
-
-<h4 align="center">
-Thanks for visiting my profile 🚀
-</h4>
-```
+<p align="center">
+  <b>Code • Learn • Build • Improve</b>
+</p>
