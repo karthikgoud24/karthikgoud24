@@ -1,8 +1,6 @@
 
 <h1 align="center">G KARTHIK GOUD</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fresher+Developer;Java+%7C+DSA+%7C+Web+Development;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
