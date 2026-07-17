@@ -114,7 +114,7 @@
 ## Connect With Me
 
 <p>
-<a href="https://github.com/karthikgoud24">
+<a href="https://github.com/karthikgoud24/">
 <img src="https://img.shields.io/badge/GitHub-karthikgoud24-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 </p>
